@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+android/** linguist-ignore
+ios/** linguist-ignore
+windows/** linguist-ignore
+linux/** linguist-ignore
+macos/** linguist-ignore
